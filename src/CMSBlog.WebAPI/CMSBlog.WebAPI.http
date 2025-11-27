@@ -1,0 +1,6 @@
+@CMSBlog.WebAPI_HostAddress = http://localhost:5288
+
+GET {{CMSBlog.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

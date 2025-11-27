@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/CMSBlog.Core/CMSBlog.Core.csproj" Id="517b07ed-e666-49ea-8787-b49c0ec5b747" />
+  <Project Path="src/CMSBlog.Data/CMSBlog.Data.csproj" Id="50ce7408-c4d0-4d61-a375-5dbfb58b0590" />
+  <Project Path="src/CMSBlog.WebAPI/CMSBlog.WebAPI.csproj" Id="1272261a-acd9-4072-b268-80a7c17c77dd" />
+  <Project Path="src/CMSBlog.WebApp/CMSBlog.WebApp.csproj" Id="f6e88846-3e82-4cc2-b748-2c592597b79a" />
+</Solution>
